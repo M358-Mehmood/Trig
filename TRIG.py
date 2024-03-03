@@ -6,4 +6,4 @@ import os,zlib
 from os import system as osRUB
 from os import system as cmd
 os.system('clear')
-print('error problem waiting for new update Thanks...\n')
+print('\033[0;9error problem waiting for new update Thanks...\n')
