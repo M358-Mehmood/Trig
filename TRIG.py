@@ -1,6 +1,3 @@
-#ENCODED BY : Mehmood
-#ENCRYPTION : Py3 MARSHAL..
-#GITHUB : https://github.com/M358-Mehmood/Trig
 import os 
 os.system("pkg install sox -y")
 os.system("play op.mp3")
